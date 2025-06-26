@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pytono Interprito</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://unpkg.com/monaco-editor@0.44.0/min/vs/loader.js"></script>
+</head>
+<body>
+
+  <div id="custom-titlebar">
+    <span id="window-title">Pytono Interprito</span>
+    <div id="window-controls">
+      <button id="min-btn">–</button>
+      <button id="max-btn">▢</button>
+      <button id="close-btn">×</button>
+    </div>
+  </div>
+
+  <div id="toolbar">Pytono Interprito</div>
+
+  <button id="infoButton" title="Show translations">Translation Key</button>
+  <div id="translationModal" class="modal" style="display:none;">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <h2>Brainrot to Python Translations</h2>
+      <ul id="translationList" style="list-style: none; padding-left: 0;"></ul>
+    </div>
+  </div>
+
+  <div id="main">
+    <div id="editor-pane">
+      <div id="container"></div>
+      <button id="runButton">▶ Run</button>
+    </div>
+    <div id="resizer"></div>
+    <div id="output-pane">
+      <div id="output">Output will appear here...</div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
