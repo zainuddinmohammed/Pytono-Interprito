@@ -96,7 +96,7 @@ bombardiro say_hello():
 
     crocodilo "Hello, World!"
 
-print(say_hello())
+tralala(say_hello())
 
 ```
 
