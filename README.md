@@ -175,3 +175,5 @@ Use the in-app modal to view the full list!
 Built by [@Zainuddin Mohammed](https://github.com/zainuddinmohammed)
 
 ---
+
+![The Scooter in Question](https://i.imgur.com/CT8sDui.gif)
