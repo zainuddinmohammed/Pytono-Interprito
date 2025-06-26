@@ -1,6 +1,8 @@
-# 🐍 Pytono Interprito 🧠
+<div align="center">
+  <img src="public/pytono-interprito.png" alt="Pytono Interprito Logo" width="300"/>
+</div>
 
-> A customizable Python dialect playground where brainrot becomes executable code.
+---
 
 **Pytono Interprito** is a playful-yet-practical platform for writing Python code using custom syntax, featuring `tung` and `sahur` for `elif` and `else`, `bombardiro` and `crocodilo` for `def` and `return`, and `tralalero` and `tralala` for `input` and `print`.  
 
