@@ -102,6 +102,21 @@ print(say_hello())
 
 ---
 
+## 🪟 Download for Windows
+
+Download the alpha release [here](https://utdallas.box.com/s/vmt4nr4nwiv6yuvnzx7sikuqywa6fgjv).
+
+### 🚀 How to Run
+
+1. Download the `.zip` file for your OS from the above link.
+2. Extract the folder:  
+   e.g., `PytonoInterprito-win32-x64.zip`
+3. Open the extracted folder and run:
+  `Pytono Interprito.exe`
+> ⚠️ If you see a Windows SmartScreen warning, click **"More info"** → **"Run anyway"**. This is expected for unsigned apps in early development.
+
+---
+
 ## 🗂 Project Structure
 
 ```
